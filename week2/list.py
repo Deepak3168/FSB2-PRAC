@@ -7,20 +7,20 @@ l = [1,2,3,4,5,6]
 
 #### READ 
 
-# print(l[0])
-# print(l[1])
+print(l[0])
+print(l[1])
 
 
-# print("Loop Start")
+print("Loop Start")
 
-# for i in l: 
-#     print(i)
+for i in l: 
+    print(i)
 
 
-# print("Range loop Start")
+print("Range loop Start")
 
-# for i in range(6):
-#     print(l[i])
+for i in range(6):
+    print(l[i])
 
 #### UPDATE LIST
 
