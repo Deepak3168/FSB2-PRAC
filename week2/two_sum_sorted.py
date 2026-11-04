@@ -1,4 +1,4 @@
-## 
+##  LC167
 
 l = [2,3,4,11,15]
 
@@ -20,5 +20,4 @@ while low < high :
         high -= 1 
     else :
         low += 1 
-
 
