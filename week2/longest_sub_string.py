@@ -1,3 +1,6 @@
+
+# LC 3
+
 s = "deepakchand"
 
 
